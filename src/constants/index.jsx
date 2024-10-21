@@ -8,7 +8,6 @@ export const features = [
       <>
       Our live-streaming technology lets you discreetly monitor their phone activity in real time. Get the truth you’ve been searching for without them ever knowing. 
       <br /><br />- <strong>Incognito Watching</strong>: Our app remains completely hidden, so your partner won’t suspect a thing. 
-      <br />- <strong>Real-Time Alerts</strong>: Stay informed instantly with notifications whenever suspicious activity occurs.
       </>
       ),
     button: {
@@ -20,12 +19,11 @@ export const features = [
     id: "1",
     icon: "/images/feature-2.png",
     caption: "Easy integration",
-    title: "Effortless Installation",
+    title: "No Installation Required",
     text: (
       <>
-      Ready to find out what’s really going on? With our app’s effortless installation process, you can start monitoring suspicious activity in minutes—no tech expertise needed! 
-      <br /><br />- <strong>Effortless Installation</strong>: No complicated setup, install the app and start monitoring instantly.
-      <br />- <strong>24/7 Support</strong>: Our dedicated team is always available to guide you through the process.
+      Ready to find out what’s really going on? With our solution, there's no need to install any app, you can start monitoring suspicious activity in minutes—no tech expertise needed! 
+      <br /><br />- <strong>Set up in just 2 minutes</strong>: No complex setup or apps to install, start monitoring right away.
 
       </>
       ),

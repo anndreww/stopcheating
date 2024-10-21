@@ -18,8 +18,8 @@ const Home = () => {
       <Hero />
       <Features />
       <Pricing />
-      <Faq />
       <Testimonials />
+      <Faq />
       <Download />
       <Footer />
     </main>
