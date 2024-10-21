@@ -7,7 +7,7 @@ export const features = [
     text: (
       <>
       Our live-streaming technology lets you discreetly monitor their phone activity in real time. Get the truth you’ve been searching for without them ever knowing. 
-      <br /><br />- <strong>Stealth Operation</strong>: Our app remains completely hidden, so your partner won’t suspect a thing. 
+      <br /><br />- <strong>Incognito Watching</strong>: Our app remains completely hidden, so your partner won’t suspect a thing. 
       <br />- <strong>Real-Time Alerts</strong>: Stay informed instantly with notifications whenever suspicious activity occurs.
       </>
       ),
