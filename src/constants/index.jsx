@@ -108,7 +108,7 @@ export const plans = [
     caption: "Most popular plan",
     features: [
       <span><strong>Real-Time Monitoring:</strong> Access to live-streaming technology to discreetly monitor phone activity</span>,
-      <span><strong>Stealth Mode:</strong> Runs invisibly on the device.</span>,
+      <span><strong>Incognito Watching:</strong> Runs invisibly on the device.</span>,
       <span><strong>Basic Alerts:</strong> Receive notifications for suspicious activity.</span>,
 <span><strong>24/7 Live Chat Support:</strong> Immediate assistance whenever you need it.</span>,
     ],
