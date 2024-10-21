@@ -11,7 +11,7 @@ const Hero = () => {
               Catch the cheaters
             </div>
             <h1 className="mb-6 h1 text-p4 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-5xl max-md:leading-12">
-              FIND THE TRUTH
+              SECRET MONITORING
             </h1>
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
             Are you suspicious of your partner's behavior? Whether they're talking to others or watching porn secretly, you deserve to know the truth.
