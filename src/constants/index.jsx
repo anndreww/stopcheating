@@ -107,10 +107,10 @@ export const plans = [
     priceYearly: 9,
     caption: "Most popular plan",
     features: [
-      <span><strong>Real-Time Monitoring:</strong> Access to live-streaming technology to discreetly monitor phone activity</span>,
-      <span><strong>Incognito Watching:</strong> Runs invisibly on the device.</span>,
-      <span><strong>Basic Alerts:</strong> Receive notifications for suspicious activity.</span>,
-<span><strong>24/7 Live Chat Support:</strong> Immediate assistance whenever you need it.</span>,
+      <span><strong>Real-Time Monitoring:</strong> Monitor activity in real time.</span>,
+      <span><strong>Incognito Watching:</strong> Runs invisibly on the phone.</span>,
+      <span><strong>Basic Alerts:</strong> Get notified of suspicious activity.</span>,
+<span><strong>24/7 Live Chat Support:</strong> Immediate assistance available anytime.</span>,
     ],
 
     icon: "/images/circle.svg",
